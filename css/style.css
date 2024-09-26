@@ -333,7 +333,6 @@ hero__title{
     transform: rotate(180deg);
 }
 .questions__show{
-    text-align: left;
     height: 0;
     transition: height .3s;
 }
